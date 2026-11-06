@@ -4,9 +4,9 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-  base: '/Klinik-Hukum/'
-  return {
+    return {
     plugins: [react(), tailwindcss()],
+      base: '/Klinik-Hukum/',
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
