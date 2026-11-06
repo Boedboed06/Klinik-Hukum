@@ -1,0 +1,377 @@
+{
+  "settings": {
+    "appName": "Klinik Hukum Bawaslu Kota Batam",
+    "tagline": "Layanan Konsultasi Hukum Kepemiluan Berbasis AI, Regulasi Resmi, & Forum Diskusi",
+    "description": "Portal resmi konsultasi hukum kepemiluan Bawaslu Kota Batam. Akses regulasi pemilu terpercaya, tanyakan aturan hukum pada asisten cerdas Awasmin, dan berdiskusi demi tegaknya keadilan pemilu di Kota Batam.",
+    "logoUrl": "",
+    "bannerUrl": "",
+    "bannerHeadline": "Konsultasi Hukum Kepemiluan Cerdas, Cepat, dan Akurat",
+    "bannerSubline": "Tanyakan regulasi kepemiluan kepada Asisten Cerdas Awasmin yang merujuk langsung pada sumber hukum resmi Bawaslu Kota Batam.",
+    "officeAddress": "King Busines Centre, Blok C1 No 17 – 19 Belian, Batam Kota.",
+    "contactPhone": "+62 778 480 3456",
+    "contactEmail": "klinikhukum@batam.bawaslu.go.id",
+    "facebookUrl": "https://facebook.com/bawaslubatam",
+    "instagramUrl": "https://instagram.com/bawaslukotabatam",
+    "youtubeUrl": "https://youtube.com/@bawaslukotabatam",
+    "fallbackMessage": "Maaf, informasi yang Anda tanyakan belum tersedia dalam basis data referensi Klinik Hukum Bawaslu Kota Batam. Silakan menghubungi layanan Klinik Hukum untuk mendapatkan informasi lebih lanjut.",
+    "guestQuestionLimit": 3
+  },
+  "users": [
+    {
+      "id": "usr_admin_01",
+      "fullName": "Administrator Bawaslu Batam",
+      "email": "admin@bawaslu.go.id",
+      "phone": "081270001122",
+      "agency": "Bawaslu Kota Batam",
+      "birthDate": "1988-08-17",
+      "birthYear": "1988",
+      "passwordHash": "32569740e1bd01d19422ee820a156163f61dc0d40f3cf6bc668fa1b04467a05329946f81cebd63b3972b7a644e262464df8841427d849884bb315d93bfef7e15",
+      "salt": "334738169afaa2771a04af462f3e463c",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2025-01-01T08:00:00.000Z"
+    },
+    {
+      "id": "usr_user_01",
+      "fullName": "Masyarakat Peduli Pemilu",
+      "email": "masyarakat@batam.go.id",
+      "phone": "081364009988",
+      "agency": "Masyarakat Umum / Akademisi Batam",
+      "birthDate": "1995-05-12",
+      "birthYear": "1995",
+      "passwordHash": "62fa4964408871674e9c68d0668c8a2852e1a6d0e7da48fffbe411bbc713b5501afb158f61feb45af85b335821e722de289afbcf5990dac9b30b960ae85c15c8",
+      "salt": "47ca64c1e2b68019a7f7312cc2f1ae92",
+      "role": "user",
+      "status": "active",
+      "createdAt": "2025-01-05T09:30:00.000Z"
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc_uu_7_2017",
+      "title": "Undang-Undang Republik Indonesia Nomor 7 Tahun 2017 tentang Pemilihan Umum",
+      "category": "UU Pemilu",
+      "regulationNumber": "7",
+      "year": "2017",
+      "description": "Regulasi induk penyelenggaraan Pemilu di Indonesia yang mengatur asas, kelembagaan KPU, Bawaslu, DKPP, hak pilih, tahapan pemilu, kampanye, sanksi tindak pidana pemilu, serta politik uang.",
+      "googleDriveLink": "https://drive.google.com/file/d/1BawasluBatamUU72017ElectionLaw/view",
+      "fileUrl": "https://peraturan.go.id/id/uu-no-7-tahun-2017",
+      "publishDate": "2017-08-16",
+      "status": "active",
+      "processStatus": "Berhasil",
+      "content": "UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 7 TAHUN 2017 TENTANG PEMILIHAN UMUM\n\nBAB I KETENTUAN UMUM\nPasal 1\n(1) Pemilihan Umum yang selanjutnya disebut Pemilu adalah sarana kedaulatan rakyat untuk memilih anggota Dewan Perwakilan Rakyat, anggota Dewan Perwakilan Daerah, Presiden dan Wakil Presiden, dan untuk memilih anggota Dewan Perwakilan Rakyat Daerah, yang dilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil dalam Negara Kesatuan Republik Indonesia berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\n(2) Badan Pengawas Pemilu yang selanjutnya disebut Bawaslu adalah lembaga penyelenggara Pemilu yang bertugas mengawasi penyelenggaraan Pemilu di seluruh wilayah Negara Kesatuan Republik Indonesia.\n(17) Bawaslu Kabupaten/Kota adalah lembaga pengawas Pemilu yang bertugas mengawasi penyelenggaraan Pemilu di wilayah kabupaten/kota.\n\nBAB II ASAS DAN PRINSIP PENYELENGGARA PEMILU\nPasal 2\nPemilu dilaksanakan berdasarkan asas langsung, umum, bebas, rahasia, jujur, dan adil.\nPasal 3\nPenyelenggara Pemilu harus berpedoman pada prinsip: mandiri, jujur, adil, berkepastian hukum, tertib, terbuka, proporsional, profesional, akuntabel, efektif, dan efisien.\n\nBAB IV PENGAWASAN PEMILU (TUGAS DAN WEWENANG BAWASLU KABUPATEN/KOTA)\nPasal 101\nBawaslu Kabupaten/Kota bertugas:\na. mengawasi pelaksanaan tahapan penyelenggaraan Pemilu di wilayah kabupaten/kota;\nb. mencegah dan menangani pelanggaran Pemilu serta sengketa proses Pemilu di wilayah kabupaten/kota;\nc. mengawasi pelaksanaan sosialisasi penyelenggaraan Pemilu di wilayah kabupaten/kota;\nd. mengevaluasi pengawasan Pemilu di wilayah kabupaten/kota.\n\nPasal 102\n(1) Dalam melakukan pencegahan pelanggaran Pemilu dan sengketa proses Pemilu sebagaimana dimaksud dalam Pasal 101 huruf b, Bawaslu Kabupaten/Kota berwenang:\na. mengidentifikasi dan memetakan potensi kerawanan serta pelanggaran Pemilu di wilayah kabupaten/kota;\nb. mengoordinasikan, menyupervisi, membimbing, memantau, dan mengevaluasi penyelenggaraan Pengawasan Pemilu oleh Panwaslu Kecamatan, Panwaslu Kelurahan/Desa, dan Pengawas TPS;\nc. berkoordinasi dengan instansi pemerintah daerah terkait; dan\nd. meningkatkan partisipasi masyarakat dalam pengawasan Pemilu di wilayah kabupaten/kota.\n\nBAB VII KAMPANYE PEMILU DAN LARANGAN\nPasal 280\n(1) Pelaksana, peserta, dan tim kampanye Pemilu dilarang:\na. mempersoalkan dasar negara Pancasila, Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, dan bentuk Negara Kesatuan Republik Indonesia;\nb. melakukan kegiatan yang membahayakan keutuhan Negara Kesatuan Republik Indonesia;\nc. menghina seseorang, agama, suku, ras, golongan, calon, dan/atau Peserta Pemilu yang lain;\nd. menghasut dan mengadu domba perseorangan ataupun masyarakat;\ne. mengganggu ketertiban umum;\nf. mengancam untuk melakukan kekerasan atau menganjurkan penggunaan kekerasan kepada seseorang, sekelompok anggota masyarakat, dan/atau Peserta Pemilu yang lain;\ng. merusak dan/atau menghilangkan alat peraga kampanye Peserta Pemilu;\nh. menggunakan fasilitas pemerintah, tempat ibadah, dan tempat pendidikan;\ni. membawa atau menggunakan tanda gambar dan/atau atribut lain selain dari tanda gambar dan/atau atribut Peserta Pemilu yang bersangkutan; dan\nj. menjanjikan atau memberikan uang atau materi lainnya kepada peserta Kampanye Pemilu (politik uang/money politics).\n(2) Pelaksana dan/atau tim kampanye dalam kegiatan Kampanye Pemilu dilarang mengikutsertakan:\na. ketua, wakil ketua, ketua muda, hakim agung pada Mahkamah Agung, dan hakim pada semua badan peradilan di bawahnya;\nb. ketua, wakil ketua, dan anggota Badan Pemeriksa Keuangan;\nc. gubernur, deputi gubernur senior, dan deputi gubernur Bank Indonesia;\nd. direksi, komisaris, dewan pengawas dan karyawan badan usaha milik negara/badan usaha milik daerah;\ne. aparatur sipil negara (ASN);\nf. anggota Tentara Nasional Indonesia dan Kepolisian Negara Republik Indonesia;\ng. kepala desa;\nh. perangkat desa;\ni. anggota badan permusyawaratan desa.\n\nPasal 523 (SANKSI TINDAK PIDANA POLITIK UANG)\n(1) Setiap pelaksana, peserta, dan/atau tim Kampanye Pemilu yang dengan sengaja menjanjikan atau memberikan uang atau materi lainnya sebagai imbalan kepada peserta Kampanye Pemilu secara langsung ataupun tidak langsung sebagaimana dimaksud dalam Pasal 280 ayat (1) huruf j dipidana dengan pidana penjara paling lama 2 (dua) tahun dan denda paling banyak Rp24.000.000,00 (dua puluh empat juta rupiah).\n(2) Setiap pelaksana, peserta, dan/atau tim Kampanye Pemilu yang dengan sengaja pada Masa Tenang menjanjikan atau memberikan imbalan uang atau materi lainnya kepada Pemilih secara langsung ataupun tidak langsung dipidana dengan pidana penjara paling lama 4 (empat) tahun dan denda paling banyak Rp48.000.000,00 (empat puluh delapan juta rupiah).\n(3) Setiap orang yang dengan sengaja pada hari pemungutan suara menjanjikan atau memberikan uang atau materi lainnya kepada Pemilih untuk tidak menggunakan hak pilihnya atau memilih Peserta Pemilu tertentu dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan denda paling banyak Rp36.000.000,00 (tiga puluh enam juta rupiah).",
+      "chunks": [
+        {
+          "id": "549eb571-30a6-4f57-94dd-0ed2dc9deedc",
+          "bab": "BAB I KETENTUAN UMUM",
+          "text": "UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 7 TAHUN 2017 TENTANG PEMILIHAN UMUM\nBAB I KETENTUAN UMUM"
+        },
+        {
+          "id": "70d0b7ce-0be7-421f-8abe-a2076af2b38d",
+          "pasal": "Pasal 1",
+          "bab": "BAB II ASAS DAN PRINSIP PENYELENGGARA PEMILU",
+          "text": "Pasal 1\n(1) Pemilihan Umum yang selanjutnya disebut Pemilu adalah sarana kedaulatan rakyat untuk memilih anggota Dewan Perwakilan Rakyat, anggota Dewan Perwakilan Daerah, Presiden dan Wakil Presiden, dan untuk memilih anggota Dewan Perwakilan Rakyat Daerah, yang dilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil dalam Negara Kesatuan Republik Indonesia berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.\n(2) Badan Pengawas Pemilu yang selanjutnya disebut Bawaslu adalah lembaga penyelenggara Pemilu yang bertugas mengawasi penyelenggaraan Pemilu di seluruh wilayah Negara Kesatuan Republik Indonesia.\n(17) Bawaslu Kabupaten/Kota adalah lembaga pengawas Pemilu yang bertugas mengawasi penyelenggaraan Pemilu di wilayah kabupaten/kota.\nBAB II ASAS DAN PRINSIP PENYELENGGARA PEMILU"
+        },
+        {
+          "id": "a9779731-735e-405f-962c-a626c4e0ff29",
+          "pasal": "Pasal 2",
+          "bab": "BAB II ASAS DAN PRINSIP PENYELENGGARA PEMILU",
+          "text": "Pasal 2\nPemilu dilaksanakan berdasarkan asas langsung, umum, bebas, rahasia, jujur, dan adil."
+        },
+        {
+          "id": "1a6c37ea-be82-4069-9b36-d35864f2661d",
+          "pasal": "Pasal 3",
+          "bab": "BAB IV PENGAWASAN PEMILU (TUGAS DAN WEWENANG BAWASLU KABUPATEN/KOTA)",
+          "text": "Pasal 3\nPenyelenggara Pemilu harus berpedoman pada prinsip: mandiri, jujur, adil, berkepastian hukum, tertib, terbuka, proporsional, profesional, akuntabel, efektif, dan efisien.\nBAB IV PENGAWASAN PEMILU (TUGAS DAN WEWENANG BAWASLU KABUPATEN/KOTA)"
+        },
+        {
+          "id": "211e47bf-6d27-47c4-814b-0b96baf842a4",
+          "pasal": "Pasal 101",
+          "bab": "BAB IV PENGAWASAN PEMILU (TUGAS DAN WEWENANG BAWASLU KABUPATEN/KOTA)",
+          "text": "Pasal 101\nBawaslu Kabupaten/Kota bertugas:\na. mengawasi pelaksanaan tahapan penyelenggaraan Pemilu di wilayah kabupaten/kota;\nb. mencegah dan menangani pelanggaran Pemilu serta sengketa proses Pemilu di wilayah kabupaten/kota;\nc. mengawasi pelaksanaan sosialisasi penyelenggaraan Pemilu di wilayah kabupaten/kota;\nd. mengevaluasi pengawasan Pemilu di wilayah kabupaten/kota."
+        },
+        {
+          "id": "83d3a043-ae3b-49a3-a91d-7b75c96a62d8",
+          "pasal": "Pasal 102",
+          "bab": "BAB VII KAMPANYE PEMILU DAN LARANGAN",
+          "text": "Pasal 102\n(1) Dalam melakukan pencegahan pelanggaran Pemilu dan sengketa proses Pemilu sebagaimana dimaksud dalam Pasal 101 huruf b, Bawaslu Kabupaten/Kota berwenang:\na. mengidentifikasi dan memetakan potensi kerawanan serta pelanggaran Pemilu di wilayah kabupaten/kota;\nb. mengoordinasikan, menyupervisi, membimbing, memantau, dan mengevaluasi penyelenggaraan Pengawasan Pemilu oleh Panwaslu Kecamatan, Panwaslu Kelurahan/Desa, dan Pengawas TPS;\nc. berkoordinasi dengan instansi pemerintah daerah terkait; dan\nd. meningkatkan partisipasi masyarakat dalam pengawasan Pemilu di wilayah kabupaten/kota.\nBAB VII KAMPANYE PEMILU DAN LARANGAN"
+        },
+        {
+          "id": "2bf64f61-8d6c-4455-9614-0e2c30cd3eee",
+          "pasal": "Pasal 280",
+          "bab": "BAB VII KAMPANYE PEMILU DAN LARANGAN",
+          "text": "Pasal 280\n(1) Pelaksana, peserta, dan tim kampanye Pemilu dilarang:\na. mempersoalkan dasar negara Pancasila, Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, dan bentuk Negara Kesatuan Republik Indonesia;\nb. melakukan kegiatan yang membahayakan keutuhan Negara Kesatuan Republik Indonesia;\nc. menghina seseorang, agama, suku, ras, golongan, calon, dan/atau Peserta Pemilu yang lain;\nd. menghasut dan mengadu domba perseorangan ataupun masyarakat;\ne. mengganggu ketertiban umum;\nf. mengancam untuk melakukan kekerasan atau menganjurkan penggunaan kekerasan kepada seseorang, sekelompok anggota masyarakat, dan/atau Peserta Pemilu yang lain;\ng. merusak dan/atau menghilangkan alat peraga kampanye Peserta Pemilu;\nh. menggunakan fasilitas pemerintah, tempat ibadah, dan tempat pendidikan;\ni. membawa atau menggunakan tanda gambar dan/atau atribut lain selain dari tanda gambar dan/atau atribut Peserta Pemilu yang bersangkutan; dan\nj. menjanjikan atau memberikan uang atau materi lainnya kepada peserta Kampanye Pemilu (politik uang/money politics).\n(2) Pelaksana dan/atau tim kampanye dalam kegiatan Kampanye Pemilu dilarang mengikutsertakan:\na. ketua, wakil ketua, ketua muda, hakim agung pada Mahkamah Agung, dan hakim pada semua badan peradilan di bawahnya;"
+        },
+        {
+          "id": "c43d924c-9858-4069-912d-006aa8f87ca5",
+          "pasal": "Pasal 280",
+          "bab": "BAB VII KAMPANYE PEMILU DAN LARANGAN",
+          "text": "b. ketua, wakil ketua, dan anggota Badan Pemeriksa Keuangan;\nc. gubernur, deputi gubernur senior, dan deputi gubernur Bank Indonesia;\nd. direksi, komisaris, dewan pengawas dan karyawan badan usaha milik negara/badan usaha milik daerah;\ne. aparatur sipil negara (ASN);\nf. anggota Tentara Nasional Indonesia dan Kepolisian Negara Republik Indonesia;\ng. kepala desa;\nh. perangkat desa;\ni. anggota badan permusyawaratan desa."
+        },
+        {
+          "id": "b53728fb-e43e-4537-a8cd-e19b737ad624",
+          "pasal": "Pasal 523",
+          "bab": "BAB VII KAMPANYE PEMILU DAN LARANGAN",
+          "text": "Pasal 523 (SANKSI TINDAK PIDANA POLITIK UANG)\n(1) Setiap pelaksana, peserta, dan/atau tim Kampanye Pemilu yang dengan sengaja menjanjikan atau memberikan uang atau materi lainnya sebagai imbalan kepada peserta Kampanye Pemilu secara langsung ataupun tidak langsung sebagaimana dimaksud dalam Pasal 280 ayat (1) huruf j dipidana dengan pidana penjara paling lama 2 (dua) tahun dan denda paling banyak Rp24.000.000,00 (dua puluh empat juta rupiah).\n(2) Setiap pelaksana, peserta, dan/atau tim Kampanye Pemilu yang dengan sengaja pada Masa Tenang menjanjikan atau memberikan imbalan uang atau materi lainnya kepada Pemilih secara langsung ataupun tidak langsung dipidana dengan pidana penjara paling lama 4 (empat) tahun dan denda paling banyak Rp48.000.000,00 (empat puluh delapan juta rupiah).\n(3) Setiap orang yang dengan sengaja pada hari pemungutan suara menjanjikan atau memberikan uang atau materi lainnya kepada Pemilih untuk tidak menggunakan hak pilihnya atau memilih Peserta Pemilu tertentu dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan denda paling banyak Rp36.000.000,00 (tiga puluh enam juta rupiah)."
+        }
+      ],
+      "createdAt": "2026-11-06T04:00:56.302Z",
+      "updatedAt": "2026-11-06T04:00:56.303Z"
+    },
+    {
+      "id": "doc_perbawaslu_7_2022",
+      "title": "Peraturan Bawaslu Nomor 7 Tahun 2022 tentang Penanganan Temuan dan Laporan Pelanggaran Pemilihan Umum",
+      "category": "Perbawaslu",
+      "regulationNumber": "7",
+      "year": "2022",
+      "description": "Pedoman tata cara penerimaan, verifikasi, registrasi, klarifikasi, pengkajian, dan pengambilan status terhadap temuan pengawas maupun laporan dugaan pelanggaran pemilu dari masyarakat.",
+      "googleDriveLink": "https://drive.google.com/file/d/1BawasluBatamPerbawaslu72022Pelanggaran/view",
+      "fileUrl": "https://bawaslu.go.id/id/peraturan/perbawaslu-no-7-tahun-2022",
+      "publishDate": "2022-10-21",
+      "status": "active",
+      "processStatus": "Berhasil",
+      "content": "PERATURAN BADAN PENGAWAS PEMILIHAN UMUM NOMOR 7 TAHUN 2022 TENTANG PENANGANAN TEMUAN DAN LAPORAN PELANGGARAN PEMILIHAN UMUM\n\nBAB I KETENTUAN UMUM\nPasal 1\n(1) Pelanggaran Pemilu adalah tindakan yang bertentangan, melanggar, atau tidak sesuai dengan peraturan perundang-undangan yang mengatur mengenai Pemilu.\n(2) Temuan Dugaan Pelanggaran Pemilu yang selanjutnya disebut Temuan adalah dugaan Pelanggaran Pemilu yang berasal dari hasil Pengawasan Pengawas Pemilu pada setiap tahapan Penyelenggaraan Pemilu atau hasil Pengawasan non-tahapan.\n(3) Laporan Dugaan Pelanggaran Pemilu yang selanjutnya disebut Laporan adalah dugaan Pelanggaran Pemilu yang disampaikan secara tertulis oleh Warga Negara Indonesia yang mempunyai hak pilih, Peserta Pemilu, atau Pemantau Pemilu kepada Pengawas Pemilu.\n\nBAB II SUMBER DUGAAN PELANGGARAN\nPasal 3\n(1) Dugaan Pelanggaran Pemilu bersumber dari:\na. Temuan; atau\nb. Laporan.\n(2) Pelanggaran Pemilu terdiri atas:\na. pelanggaran kode etik Penyelenggara Pemilu;\nb. pelanggaran administratif Pemilu; dan\nc. tindak pidana Pemilu.\n(3) Selain pelanggaran Pemilu sebagaimana dimaksud pada ayat (2), Pengawas Pemilu juga menangani dugaan pelanggaran terhadap peraturan perundang-undangan lainnya seperti netralitas ASN, TNI, POLRI, dan Kepala Desa.\n\nBAB III SYARAT LAPORAN DAN TENGGANG WAKTU\nPasal 8\n(1) Laporan dugaan Pelanggaran Pemilu disampaikan secara tertulis dan memuat:\na. nama dan alamat Pelapor;\nb. pihak Terlapor;\nc. waktu dan tempat terjadinya peristiwa; dan\nd. uraian kejadian.\n(2) Laporan sebagaimana dimaksud pada ayat (1) harus memenuhi:\na. syarat formal: nama dan alamat Pelapor, identitas Pelapor (KTP-el atau identitas kependudukan), pihak Terlapor, dan waktu penyampaian tidak melebihi batas waktu;\nb. syarat materiel: waktu dan tempat kejadian dugaan pelanggaran, uraian kejadian dugaan pelanggaran, serta bukti.\n(3) Laporan disampaikan paling lama 7 (tujuh) hari kerja sejak diketahui terjadinya dugaan Pelanggaran Pemilu.\n\nBAB IV PENANGANAN DAN JANGKA WAKTU KLARIFIKASI\nPasal 15\n(1) Bawaslu, Bawaslu Provinsi, atau Bawaslu Kabupaten/Kota memutus status penanganan Laporan atau Temuan paling lama 7 (tujuh) hari kerja setelah Laporan atau Temuan diregistrasi.\n(2) Dalam hal Bawaslu, Bawaslu Provinsi, atau Bawaslu Kabupaten/Kota memerlukan keterangan tambahan, penanganan Laporan atau Temuan dapat ditambah paling lama 7 (tujuh) hari kerja berikutnya.",
+      "chunks": [
+        {
+          "id": "c2a3ec71-3c4d-416b-a118-8290987d71a2",
+          "bab": "BAB I KETENTUAN UMUM",
+          "text": "PERATURAN BADAN PENGAWAS PEMILIHAN UMUM NOMOR 7 TAHUN 2022 TENTANG PENANGANAN TEMUAN DAN LAPORAN PELANGGARAN PEMILIHAN UMUM\nBAB I KETENTUAN UMUM"
+        },
+        {
+          "id": "434edd66-790a-4d7d-a79b-759680ac340d",
+          "pasal": "Pasal 1",
+          "bab": "BAB II SUMBER DUGAAN PELANGGARAN",
+          "text": "Pasal 1\n(1) Pelanggaran Pemilu adalah tindakan yang bertentangan, melanggar, atau tidak sesuai dengan peraturan perundang-undangan yang mengatur mengenai Pemilu.\n(2) Temuan Dugaan Pelanggaran Pemilu yang selanjutnya disebut Temuan adalah dugaan Pelanggaran Pemilu yang berasal dari hasil Pengawasan Pengawas Pemilu pada setiap tahapan Penyelenggaraan Pemilu atau hasil Pengawasan non-tahapan.\n(3) Laporan Dugaan Pelanggaran Pemilu yang selanjutnya disebut Laporan adalah dugaan Pelanggaran Pemilu yang disampaikan secara tertulis oleh Warga Negara Indonesia yang mempunyai hak pilih, Peserta Pemilu, atau Pemantau Pemilu kepada Pengawas Pemilu.\nBAB II SUMBER DUGAAN PELANGGARAN"
+        },
+        {
+          "id": "c659acfa-c332-45b5-821c-6cc5258eeef9",
+          "pasal": "Pasal 3",
+          "bab": "BAB III SYARAT LAPORAN DAN TENGGANG WAKTU",
+          "text": "Pasal 3\n(1) Dugaan Pelanggaran Pemilu bersumber dari:\na. Temuan; atau\nb. Laporan.\n(2) Pelanggaran Pemilu terdiri atas:\na. pelanggaran kode etik Penyelenggara Pemilu;\nb. pelanggaran administratif Pemilu; dan\nc. tindak pidana Pemilu.\n(3) Selain pelanggaran Pemilu sebagaimana dimaksud pada ayat (2), Pengawas Pemilu juga menangani dugaan pelanggaran terhadap peraturan perundang-undangan lainnya seperti netralitas ASN, TNI, POLRI, dan Kepala Desa.\nBAB III SYARAT LAPORAN DAN TENGGANG WAKTU"
+        },
+        {
+          "id": "5fd737ea-a7ab-4b35-af1c-edaff6397360",
+          "pasal": "Pasal 8",
+          "bab": "BAB IV PENANGANAN DAN JANGKA WAKTU KLARIFIKASI",
+          "text": "Pasal 8\n(1) Laporan dugaan Pelanggaran Pemilu disampaikan secara tertulis dan memuat:\na. nama dan alamat Pelapor;\nb. pihak Terlapor;\nc. waktu dan tempat terjadinya peristiwa; dan\nd. uraian kejadian.\n(2) Laporan sebagaimana dimaksud pada ayat (1) harus memenuhi:\na. syarat formal: nama dan alamat Pelapor, identitas Pelapor (KTP-el atau identitas kependudukan), pihak Terlapor, dan waktu penyampaian tidak melebihi batas waktu;\nb. syarat materiel: waktu dan tempat kejadian dugaan pelanggaran, uraian kejadian dugaan pelanggaran, serta bukti.\n(3) Laporan disampaikan paling lama 7 (tujuh) hari kerja sejak diketahui terjadinya dugaan Pelanggaran Pemilu.\nBAB IV PENANGANAN DAN JANGKA WAKTU KLARIFIKASI"
+        },
+        {
+          "id": "c948d548-ff5b-483a-8bce-2cf15173ceb5",
+          "pasal": "Pasal 15",
+          "bab": "BAB IV PENANGANAN DAN JANGKA WAKTU KLARIFIKASI",
+          "text": "Pasal 15\n(1) Bawaslu, Bawaslu Provinsi, atau Bawaslu Kabupaten/Kota memutus status penanganan Laporan atau Temuan paling lama 7 (tujuh) hari kerja setelah Laporan atau Temuan diregistrasi.\n(2) Dalam hal Bawaslu, Bawaslu Provinsi, atau Bawaslu Kabupaten/Kota memerlukan keterangan tambahan, penanganan Laporan atau Temuan dapat ditambah paling lama 7 (tujuh) hari kerja berikutnya."
+        }
+      ],
+      "createdAt": "2026-11-06T04:00:56.303Z",
+      "updatedAt": "2026-11-06T04:00:56.303Z"
+    },
+    {
+      "id": "doc_pkpu_15_2023",
+      "title": "Peraturan KPU Nomor 15 Tahun 2023 tentang Kampanye Pemilihan Umum",
+      "category": "PKPU",
+      "regulationNumber": "15",
+      "year": "2023",
+      "description": "Peraturan yang memuat metode kampanye, batas pemasangan alat peraga kampanye (APK), bahan kampanye, media sosial, iklan kampanye, serta larangan dalam kampanye pemilu.",
+      "googleDriveLink": "https://drive.google.com/file/d/1BawasluBatamPKPU152023Kampanye/view",
+      "fileUrl": "https://jdih.kpu.go.id/dokumen/detail/15-2023",
+      "publishDate": "2023-07-17",
+      "status": "active",
+      "processStatus": "Berhasil",
+      "content": "PERATURAN KOMISI PEMILIHAN UMUM NOMOR 15 TAHUN 2023 TENTANG KAMPANYE PEMILIHAN UMUM\n\nBAB II METODE KAMPANYE PEMILU\nPasal 26\n(1) Kampanye Pemilu dapat dilakukan melalui metode:\na. pertemuan terbatas;\nb. pertemuan tatap muka;\nc. penyebaran bahan Kampanye Pemilu kepada umum;\nd. pemasangan alat peraga Kampanye Pemilu di tempat umum;\ne. media sosial;\nf. iklan media massa cetak, media massa elektronik, dan media daring;\ng. rapat umum;\nh. debat Pasangan Calon tentang materi Kampanye Pemilu Pasangan Calon; dan\ni. kegiatan lain yang tidak melanggar larangan Kampanye Pemilu dan ketentuan peraturan perundang-undangan.\n\nBAB IV ALAT PERAGA KAMPANYE (APK) DAN BAHAN KAMPANYE\nPasal 33\n(1) Bahan Kampanye yang disebarkan kepada umum dapat berupa selebaran (flyer), brosur (leaflet), pamflet, poster, stiker, pakaian, penutup kepala, alat minum/makan, kalender, kartu nama, pin, dan/atau alat tulis.\n(2) Setiap bahan Kampanye sebagaimana dimaksud pada ayat (1) apabila dikonversikan dalam bentuk uang bernilai paling tinggi Rp100.000,00 (seratus ribu rupiah) per item.\n\nPasal 70\n(1) Alat Peraga Kampanye (APK) dilarang dipasang pada:\na. tempat ibadah termasuk halaman;\nb. rumah sakit atau tempat pelayanan kesehatan;\nc. gedung atau fasilitas milik pemerintah;\nd. fasilitas tertentu milik TNI/Polri dan BUMN/BUMD; dan\ne. jalan-jalan protokol tertentu, taman kota, pohon pelindung lingkungan hidup, dan jembatan penyeberangan orang sesuai keputusan pemerintah daerah setempat.",
+      "chunks": [
+        {
+          "id": "7e1c374a-5b0a-40fb-ac2c-f89e9761d4da",
+          "bab": "BAB II METODE KAMPANYE PEMILU",
+          "text": "PERATURAN KOMISI PEMILIHAN UMUM NOMOR 15 TAHUN 2023 TENTANG KAMPANYE PEMILIHAN UMUM\nBAB II METODE KAMPANYE PEMILU"
+        },
+        {
+          "id": "7f6e62dd-7781-42e7-a29a-46d69e373893",
+          "pasal": "Pasal 26",
+          "bab": "BAB IV ALAT PERAGA KAMPANYE (APK) DAN BAHAN KAMPANYE",
+          "text": "Pasal 26\n(1) Kampanye Pemilu dapat dilakukan melalui metode:\na. pertemuan terbatas;\nb. pertemuan tatap muka;\nc. penyebaran bahan Kampanye Pemilu kepada umum;\nd. pemasangan alat peraga Kampanye Pemilu di tempat umum;\ne. media sosial;\nf. iklan media massa cetak, media massa elektronik, dan media daring;\ng. rapat umum;\nh. debat Pasangan Calon tentang materi Kampanye Pemilu Pasangan Calon; dan\ni. kegiatan lain yang tidak melanggar larangan Kampanye Pemilu dan ketentuan peraturan perundang-undangan.\nBAB IV ALAT PERAGA KAMPANYE (APK) DAN BAHAN KAMPANYE"
+        },
+        {
+          "id": "59f5261e-1528-4de4-84ff-10f3d2ce948e",
+          "pasal": "Pasal 33",
+          "bab": "BAB IV ALAT PERAGA KAMPANYE (APK) DAN BAHAN KAMPANYE",
+          "text": "Pasal 33\n(1) Bahan Kampanye yang disebarkan kepada umum dapat berupa selebaran (flyer), brosur (leaflet), pamflet, poster, stiker, pakaian, penutup kepala, alat minum/makan, kalender, kartu nama, pin, dan/atau alat tulis.\n(2) Setiap bahan Kampanye sebagaimana dimaksud pada ayat (1) apabila dikonversikan dalam bentuk uang bernilai paling tinggi Rp100.000,00 (seratus ribu rupiah) per item."
+        },
+        {
+          "id": "21e28051-55af-402a-8a4e-7520e91ec44f",
+          "pasal": "Pasal 70",
+          "bab": "BAB IV ALAT PERAGA KAMPANYE (APK) DAN BAHAN KAMPANYE",
+          "text": "Pasal 70\n(1) Alat Peraga Kampanye (APK) dilarang dipasang pada:\na. tempat ibadah termasuk halaman;\nb. rumah sakit atau tempat pelayanan kesehatan;\nc. gedung atau fasilitas milik pemerintah;\nd. fasilitas tertentu milik TNI/Polri dan BUMN/BUMD; dan\ne. jalan-jalan protokol tertentu, taman kota, pohon pelindung lingkungan hidup, dan jembatan penyeberangan orang sesuai keputusan pemerintah daerah setempat."
+        }
+      ],
+      "createdAt": "2026-11-06T04:00:56.303Z",
+      "updatedAt": "2026-11-06T04:00:56.303Z"
+    },
+    {
+      "id": "doc_asn_skb_2022",
+      "title": "Surat Keputusan Bersama (SKB) tentang Pedoman Pembinaan dan Pengawasan Netralitas ASN dalam Penyelenggaraan Pemilu",
+      "category": "Peraturan Terkait",
+      "regulationNumber": "SKB MenPAN-RB, Mendagri, BKN, KASN, Bawaslu",
+      "year": "2022",
+      "description": "Pedoman penegakan netralitas Aparatur Sipil Negara (ASN), Pegawai Pemerintah dengan Perjanjian Kerja (PPPK), dan tenaga honorer di lingkungan instansi pusat dan pemerintah daerah.",
+      "googleDriveLink": "https://drive.google.com/file/d/1BawasluBatamSKBNetralitasASN/view",
+      "fileUrl": "https://menpan.go.id/dokumen/skb-netralitas-asn-2022",
+      "publishDate": "2022-09-22",
+      "status": "active",
+      "processStatus": "Berhasil",
+      "content": "SURAT KEPUTUSAN BERSAMA MENTERI PANRB, MENDAGRI, KEPALA BKN, KETUA KASN, DAN KETUA BAWASLU TENTANG PEDOMAN PEMBINAAN DAN PENGAWASAN NETRALITAS PEGAWAI APARATUR SIPIL NEGARA DALAM PENYELENGGARAAN PEMILIHAN UMUM\n\nBAB I BENTUK PELANGGARAN NETRALITAS ASN\nBentuk-bentuk tindakan yang dilarang bagi ASN dalam Pemilu dan Pemilihan mencakup:\n1. Mengunggah, menanggapi (seperti like, share, komentar), atau menyebarluaskan gambar, foto, visi-misi calon, atau tagar terkait peserta pemilu di media sosial;\n2. Menghadiri deklarasi, konsolidasi, atau kampanye pasangan calon atau partai politik;\n3. Berfoto bersama pasangan calon atau peserta pemilu dengan pose menunjukkan simbol tangan/jari yang mencerminkan nomor urut atau dukungan;\n4. Menjadi pembicara, narasumber, atau moderator pada acara yang diadakan peserta pemilu;\n5. Menggunakan fasilitas kedinasan seperti mobil dinas, ruang kantor, atau anggaran APBD/APBN untuk kepentingan pemenangan peserta pemilu;\n6. Merekrut, mengarahkan, atau mengintimidasi bawahan atau warga untuk mendukung peserta pemilu tertentu.\n\nBAB II TATA CARA PENANGANAN OLEH BAWASLU\n1. Temuan atau laporan dugaan pelanggaran netralitas ASN disampaikan kepada Bawaslu / Bawaslu Kabupaten/Kota.\n2. Bawaslu melakukan klarifikasi dan kajian hukum paling lama 7 (tujuh) hari kerja.\n3. Apabila terbukti melanggar asas netralitas ASN, Bawaslu meneruskan rekomendasi sanksi kepada Komisi Aparatur Sipil Negara (KASN) / Badan Kepegawaian Negara (BKN) dan Pejabat Pembina Kepegawaian (PPK) instansi bersangkutan untuk dijatuhi sanksi disiplin ringan, sedang, atau berat.",
+      "chunks": [
+        {
+          "id": "5da1c30a-4e00-4e77-b272-6c4756d0e36a",
+          "bab": "BAB II TATA CARA PENANGANAN OLEH BAWASLU",
+          "text": "SURAT KEPUTUSAN BERSAMA MENTERI PANRB, MENDAGRI, KEPALA BKN, KETUA KASN, DAN KETUA BAWASLU TENTANG PEDOMAN PEMBINAAN DAN PENGAWASAN NETRALITAS PEGAWAI APARATUR SIPIL NEGARA DALAM PENYELENGGARAAN PEMILIHAN UMUM\nBAB I BENTUK PELANGGARAN NETRALITAS ASN\nBentuk-bentuk tindakan yang dilarang bagi ASN dalam Pemilu dan Pemilihan mencakup:\n1. Mengunggah, menanggapi (seperti like, share, komentar), atau menyebarluaskan gambar, foto, visi-misi calon, atau tagar terkait peserta pemilu di media sosial;\n2. Menghadiri deklarasi, konsolidasi, atau kampanye pasangan calon atau partai politik;\n3. Berfoto bersama pasangan calon atau peserta pemilu dengan pose menunjukkan simbol tangan/jari yang mencerminkan nomor urut atau dukungan;\n4. Menjadi pembicara, narasumber, atau moderator pada acara yang diadakan peserta pemilu;\n5. Menggunakan fasilitas kedinasan seperti mobil dinas, ruang kantor, atau anggaran APBD/APBN untuk kepentingan pemenangan peserta pemilu;\n6. Merekrut, mengarahkan, atau mengintimidasi bawahan atau warga untuk mendukung peserta pemilu tertentu.\nBAB II TATA CARA PENANGANAN OLEH BAWASLU\n1. Temuan atau laporan dugaan pelanggaran netralitas ASN disampaikan kepada Bawaslu / Bawaslu Kabupaten/Kota."
+        },
+        {
+          "id": "f6b9c571-a9b3-41df-95ea-2621f0204b96",
+          "bab": "BAB II TATA CARA PENANGANAN OLEH BAWASLU",
+          "text": "2. Bawaslu melakukan klarifikasi dan kajian hukum paling lama 7 (tujuh) hari kerja.\n3. Apabila terbukti melanggar asas netralitas ASN, Bawaslu meneruskan rekomendasi sanksi kepada Komisi Aparatur Sipil Negara (KASN) / Badan Kepegawaian Negara (BKN) dan Pejabat Pembina Kepegawaian (PPK) instansi bersangkutan untuk dijatuhi sanksi disiplin ringan, sedang, atau berat."
+        }
+      ],
+      "createdAt": "2026-11-06T04:00:56.303Z",
+      "updatedAt": "2026-11-06T04:00:56.303Z"
+    },
+    {
+      "id": "doc_perbawaslu_8_2022",
+      "title": "Peraturan Bawaslu Nomor 8 Tahun 2022 tentang Penyelesaian Sengketa Proses Pemilihan Umum",
+      "category": "Perbawaslu",
+      "regulationNumber": "8",
+      "year": "2022",
+      "description": "Tata cara permohonan, mediasi, dan adjudikasi penyelesaian sengketa proses pemilu antara peserta pemilu dengan penyelenggara pemilu (KPU) atau antar peserta pemilu.",
+      "googleDriveLink": "https://drive.google.com/file/d/1BawasluBatamPerbawaslu82022Sengketa/view",
+      "fileUrl": "https://bawaslu.go.id/id/peraturan/perbawaslu-no-8-tahun-2022",
+      "publishDate": "2022-10-21",
+      "status": "active",
+      "processStatus": "Berhasil",
+      "content": "PERATURAN BADAN PENGAWAS PEMILIHAN UMUM NOMOR 8 TAHUN 2022 TENTANG PENYELESAIAN SENGKETA PROSES PEMILIHAN UMUM\n\nBAB I KETENTUAN UMUM\nPasal 1\n(1) Sengketa Proses Pemilu adalah sengketa yang terjadi antara Peserta Pemilu dengan Penyelenggara Pemilu (KPU/KPU Kabupaten/Kota) sebagai akibat dikeluarkannya Keputusan KPU atau Berita Acara KPU, atau sengketa yang terjadi antar-Peserta Pemilu.\n(2) Permohonan Penyelesaian Sengketa Proses Pemilu disampaikan kepada Bawaslu, Bawaslu Provinsi, atau Bawaslu Kabupaten/Kota sesuai dengan lokus dan kewenangan.\n\nBAB II TENGGANG WAKTU PENGAJUAN PERMOHONAN\nPasal 13\n(1) Permohonan penyelesaian sengketa proses Pemilu diajukan paling lama 3 (tiga) hari kerja terhitung sejak tanggal penetapan keputusan KPU, KPU Provinsi, atau KPU Kabupaten/Kota atau Berita Acara KPU.\n(2) Bawaslu Kabupaten/Kota melakukan verifikasi kelengkapan berkas formal dan materiel permohonan.\n\nBAB III MEKANISME MEDIASI DAN ADJUDIKASI\nPasal 24\n(1) Bawaslu Kabupaten/Kota menyelesaikan sengketa proses Pemilu paling lama 12 (dua belas) hari kerja sejak permohonan diregistrasi.\n(2) Penyelesaian sengketa proses Pemilu dilakukan melalui tahapan:\na. mediasi secara tertutup paling lama 2 (dua) hari kerja;\nb. adjudikasi secara terbuka apabila mediasi tidak mencapai kesepakatan.",
+      "chunks": [
+        {
+          "id": "f0cddc58-254a-4a91-9f90-f04600686544",
+          "bab": "BAB I KETENTUAN UMUM",
+          "text": "PERATURAN BADAN PENGAWAS PEMILIHAN UMUM NOMOR 8 TAHUN 2022 TENTANG PENYELESAIAN SENGKETA PROSES PEMILIHAN UMUM\nBAB I KETENTUAN UMUM"
+        },
+        {
+          "id": "b706388f-3b6f-45df-8339-5812aac244b3",
+          "pasal": "Pasal 1",
+          "bab": "BAB II TENGGANG WAKTU PENGAJUAN PERMOHONAN",
+          "text": "Pasal 1\n(1) Sengketa Proses Pemilu adalah sengketa yang terjadi antara Peserta Pemilu dengan Penyelenggara Pemilu (KPU/KPU Kabupaten/Kota) sebagai akibat dikeluarkannya Keputusan KPU atau Berita Acara KPU, atau sengketa yang terjadi antar-Peserta Pemilu.\n(2) Permohonan Penyelesaian Sengketa Proses Pemilu disampaikan kepada Bawaslu, Bawaslu Provinsi, atau Bawaslu Kabupaten/Kota sesuai dengan lokus dan kewenangan.\nBAB II TENGGANG WAKTU PENGAJUAN PERMOHONAN"
+        },
+        {
+          "id": "147ab9d1-e776-4ca5-8a64-47c23d0cd3de",
+          "pasal": "Pasal 13",
+          "bab": "BAB III MEKANISME MEDIASI DAN ADJUDIKASI",
+          "text": "Pasal 13\n(1) Permohonan penyelesaian sengketa proses Pemilu diajukan paling lama 3 (tiga) hari kerja terhitung sejak tanggal penetapan keputusan KPU, KPU Provinsi, atau KPU Kabupaten/Kota atau Berita Acara KPU.\n(2) Bawaslu Kabupaten/Kota melakukan verifikasi kelengkapan berkas formal dan materiel permohonan.\nBAB III MEKANISME MEDIASI DAN ADJUDIKASI"
+        },
+        {
+          "id": "cb377998-6d02-47d7-8d2e-61abaae0392f",
+          "pasal": "Pasal 24",
+          "bab": "BAB III MEKANISME MEDIASI DAN ADJUDIKASI",
+          "text": "Pasal 24\n(1) Bawaslu Kabupaten/Kota menyelesaikan sengketa proses Pemilu paling lama 12 (dua belas) hari kerja sejak permohonan diregistrasi.\n(2) Penyelesaian sengketa proses Pemilu dilakukan melalui tahapan:\na. mediasi secara tertutup paling lama 2 (dua) hari kerja;\nb. adjudikasi secara terbuka apabila mediasi tidak mencapai kesepakatan."
+        }
+      ],
+      "createdAt": "2026-11-06T04:00:56.303Z",
+      "updatedAt": "2026-11-06T04:00:56.303Z"
+    }
+  ],
+  "discussions": [
+    {
+      "id": "disc_01",
+      "title": "Bagaimana Batasan Pemasangan Baliho / APK di Dekat Fasilitas Umum di Kota Batam?",
+      "content": "Halo rekan-rekan dan admin Bawaslu Kota Batam, saya ingin menanyakan mengenai radius larangan pemasangan Alat Peraga Kampanye (APK) di sekitar area sekolah dan rumah ibadah di wilayah Batam Kota. Mohon pencerahan dasar hukumnya.",
+      "category": "Tahapan Kampanye",
+      "authorId": "usr_user_01",
+      "authorName": "Masyarakat Peduli Pemilu",
+      "authorAgency": "Masyarakat Umum / Akademisi Batam",
+      "createdAt": "2025-02-10T10:00:00.000Z",
+      "status": "active",
+      "reportCount": 0,
+      "commentsCount": 2
+    },
+    {
+      "id": "disc_02",
+      "title": "Syarat dan Batas Waktu Melaporkan Dugaan Politik Uang ke Bawaslu Kota Batam",
+      "content": "Apakah laporan masyarakat terkait pembagian sembako atau amplop uang saat masa tenang memerlukan bukti video atau cukup saksi? Berapa lama batas waktu maksimal untuk melapor sejak peristiwa diketahui?",
+      "category": "Penanganan Pelanggaran",
+      "authorId": "usr_user_01",
+      "authorName": "Masyarakat Peduli Pemilu",
+      "authorAgency": "Masyarakat Umum / Akademisi Batam",
+      "createdAt": "2025-02-12T14:30:00.000Z",
+      "status": "active",
+      "reportCount": 0,
+      "commentsCount": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": "comm_01",
+      "discussionId": "disc_01",
+      "authorId": "usr_admin_01",
+      "authorName": "Administrator Bawaslu Batam",
+      "authorRole": "admin",
+      "authorAgency": "Bawaslu Kota Batam",
+      "content": "Terima kasih atas pertanyaannya. Berdasarkan UU No. 7 Tahun 2017 Pasal 280 ayat (1) huruf h dan PKPU No. 15 Tahun 2023 Pasal 70, APK dilarang mutlak dipasang di tempat ibadah termasuk halamannya, rumah sakit/tempat pelayanan kesehatan, gedung pemerintah, dan sarana pendidikan. Untuk Kota Batam, Bawaslu bersama Pemko Batam juga mengeluarkan zonasi titik larangan termasuk jembatan dan pohon pelindung.",
+      "createdAt": "2025-02-10T11:15:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "comm_02",
+      "discussionId": "disc_01",
+      "authorId": "usr_user_01",
+      "authorName": "Masyarakat Peduli Pemilu",
+      "authorRole": "user",
+      "authorAgency": "Masyarakat Umum / Akademisi Batam",
+      "content": "Sangat jelas penjelasannya Pak Admin. Jika menemukan pelanggaran tersebut, apakah kami bisa langsung melapor ke Panwaslu Kecamatan terdekat?",
+      "createdAt": "2025-02-10T12:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "comm_03",
+      "discussionId": "disc_02",
+      "authorId": "usr_admin_01",
+      "authorName": "Administrator Bawaslu Batam",
+      "authorRole": "admin",
+      "authorAgency": "Bawaslu Kota Batam",
+      "content": "Berdasarkan Perbawaslu No. 7 Tahun 2022 Pasal 8, laporan harus disampaikan maksimal 7 hari kerja sejak diketahui peristiwa. Syarat materiel meliputi waktu, tempat kejadian, uraian peristiwa, dan bukti pendukung (dapat berupa rekaman video, foto, kwitansi, atau saksi minimal 2 orang). Laporan dapat dibawa ke kantor Bawaslu Batam di Komplek KBC Belian atau melalui saluran resmi kami.",
+      "createdAt": "2025-02-12T15:00:00.000Z",
+      "status": "active"
+    }
+  ],
+  "reports": [],
+  "chatHistory": [
+    {
+      "userType": "guest",
+      "guestToken": "guest_95d0364c9cd06b43",
+      "question": "Berapa lama batas waktu masyarakat melapor pelanggaran pemilu?",
+      "answer": "Maaf, informasi yang Anda tanyakan belum tersedia dalam basis data referensi Klinik Hukum Bawaslu Kota Batam. Silakan menghubungi layanan Klinik Hukum untuk mendapatkan informasi lebih lanjut.",
+      "legalBasis": [],
+      "references": [],
+      "isFound": false,
+      "id": "chat_1793937798412_jnb1",
+      "createdAt": "2026-11-06T04:03:18.412Z"
+    },
+    {
+      "userType": "guest",
+      "guestToken": "guest_e14a1b6729db3d1a",
+      "question": "Apa sanksi politik uang?",
+      "answer": "Maaf, informasi yang Anda tanyakan belum tersedia dalam basis data referensi Klinik Hukum Bawaslu Kota Batam. Silakan menghubungi layanan Klinik Hukum untuk mendapatkan informasi lebih lanjut.",
+      "legalBasis": [],
+      "references": [],
+      "isFound": false,
+      "id": "chat_1793937770207_iz1d",
+      "createdAt": "2026-11-06T04:02:50.207Z"
+    }
+  ],
+  "guestSessions": {
+    "guest_e14a1b6729db3d1a": {
+      "count": 1,
+      "lastAsked": "2026-11-06T04:02:50.206Z"
+    },
+    "guest_95d0364c9cd06b43": {
+      "count": 1,
+      "lastAsked": "2026-11-06T04:03:18.410Z"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Klinik Hukum Bawaslu Kota Batam",
+  "description": "Layanan Konsultasi Hukum Kepemiluan Berbasis AI, Perpustakaan Regulasi Pemilu, dan Forum Diskusi Hukum Bawaslu Kota Batam",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
